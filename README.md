@@ -1,6 +1,6 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
-# AIM:
+# AIM: 
 
 To draw the UML diagram for Student Online Exam Registration System.
 # SRS (Procedure):
